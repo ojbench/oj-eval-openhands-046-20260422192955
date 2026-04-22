@@ -1,2 +1,7 @@
 CMakeFiles/
 CMakeCache.txt
+
+# Ignore local binaries
+code
+code_single
+a.out
